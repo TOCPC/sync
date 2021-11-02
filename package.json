@@ -1,0 +1,17 @@
+{
+  "name": "sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-json-modules index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOCPC/sync.git"
+  },
+  "dependencies": {
+    "firebase-admin": "^10.0.0"
+  },
+  "type": "module"
+}
